@@ -1,0 +1,17 @@
+# Power BI / Python artefacts
+*.tmp
+~$*.pbix
+*.log
+
+# Power BI cache
+~$*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+
+# Python (for future validation scripts)
+__pycache__/
+.venv/
